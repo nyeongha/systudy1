@@ -5,10 +5,11 @@ Manager: Brenda
 coach: Grace
 
 member:
--minyeong
--soeun
--gwanghwan
--wookjin
--Tyler
--kim
--park
+- minyeong
+- soeun
+- gwanghwan
+- wookjin
+- Tyler
+- kim
+- park
+- reset
