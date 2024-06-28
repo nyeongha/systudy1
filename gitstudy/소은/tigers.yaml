@@ -1,8 +1,14 @@
 team: Tigers
 
-manager: Donald
+manager: Brenda
+
+coach: Ruth
 
 members:
 - Linda
 - William
 - David
+- Georage
+- Tyler
+- Kim
+- reset
